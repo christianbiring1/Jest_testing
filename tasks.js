@@ -6,6 +6,4 @@ function stringLength(str) {
   return false;
 };
 
-// console.log(stringLength('comeond'));
-
 module.exports = stringLength;

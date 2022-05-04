@@ -196,7 +196,7 @@
     "yargs-parser": "^21.0.1"
   },
   "scripts": {
-    "test": "jest"
+    "test": "jest --coverage"
   },
   "repository": {
     "type": "git",
